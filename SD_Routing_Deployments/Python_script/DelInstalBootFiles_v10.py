@@ -131,7 +131,7 @@ def read_routers_from_file(filename):
 # Main logic
 if __name__ == "__main__":
     # Specify the filename containing router details
-    filename = "routers_with_pkg.txt"
+    filename = "routers.txt"
     success_file = "success.txt"
 
     # Clear or create the success file
